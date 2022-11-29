@@ -1,6 +1,6 @@
 import unittest
 
-class Main(unittest.TestCase):
+class TestMyProgram(unittest.TestCase):
 
     def test_EngineType(self):
         print("Testing")
